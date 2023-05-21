@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/preview.png" alt="Project Preview" width="100%">
+</p>
+
 ## 🖥️ Projeto
 
 Esse é um simples minigame de adivinhar um número entre 1 e 10.
