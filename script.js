@@ -57,11 +57,3 @@ const changeScreen = () => {
   section1.classList.toggle("hide");
   section2.classList.toggle("hide");
 };
-
-const validateAttempt = () => {
-  if (inputNumber.value == "") {
-    alert("Digite um número valido");
-  } else {
-    attempt++;
-  }
-};
